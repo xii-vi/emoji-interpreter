@@ -1,2 +1,2 @@
 # emoji-interpreter
-Created with CodeSandbox
+React App to show meaning of selected emoji.
